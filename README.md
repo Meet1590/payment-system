@@ -25,7 +25,7 @@ This project implements a **secure payment processing backend** that enables reg
 - 🛠 Admin panel for transaction monitoring and management
 
 ## 🧱 System Architecture
-currencyConverterApp/
+currencyConverterApp/ <br>
 │ <br>
 ├── payapp/ # Core payment & transaction logic <br>
 ├── register/ # User registration & authentication <br>
