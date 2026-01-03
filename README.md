@@ -26,12 +26,12 @@ This project implements a **secure payment processing backend** that enables reg
 
 ## 🧱 System Architecture
 currencyConverterApp/
-│
-├── payapp/ # Core payment & transaction logic
-├── register/ # User registration & authentication
-├── currencyConverterApp # Project configuration
-├── db.sqlite3 # Relational database
-├── manage.py
+│ <br>
+├── payapp/ # Core payment & transaction logic <br>
+├── register/ # User registration & authentication <br>
+├── currencyConverterApp # Project configuration <br>
+├── db.sqlite3 # Relational database <br>
+├── manage.py <br>
 └── requirements.txt
 
 **Architecture Style:**  
