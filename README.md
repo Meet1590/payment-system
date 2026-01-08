@@ -68,11 +68,11 @@ The system is designed around **financial transaction integrity**.
 ## 📊 Analytics & ML Readiness
 While no machine learning models are implemented, the system is **intentionally designed to support data science workflows**, including:
 
-- 📈 Transaction frequency & volume analysis
-- 🧠 User behavior profiling
-- 🚨 Fraud and anomaly detection
-- ⏱ Time-series financial analysis
-- 🌍 Currency flow and exposure analysis
+- Transaction frequency & volume analysis
+- User behavior profiling
+- Fraud and anomaly detection
+- Time-series financial analysis
+- Currency flow and exposure analysis
 
 All transactions are **labeled, timestamped, and relationally consistent**, making them immediately usable for supervised and unsupervised learning tasks.
 
